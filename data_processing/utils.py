@@ -1,7 +1,7 @@
 # import libraries
-from os import supports_effective_ids
 import numpy as np
 import random
+import os
 
 #====================================================================================#
 # Refine double-spaced file
@@ -12,7 +12,11 @@ def refine_data(species='hs', group='TA'):
     for line in lines:
         if line != '\n':
             new_lines.append(line)
-    #-------------------------    
+    #-------------------------
+    directory = './refined_data/{}/{}'.format(species, group)
+    if os.path.isdir(directory) == False:
+        os.makedirs(directory)
+    #-------------------------
     with open('./refined_data/{}/{}/{}_promoter_{}.fa'.format(species, group, species, group), 'w') as f:
         for nline in new_lines:
             f.writelines(nline)
@@ -102,6 +106,10 @@ def build_negative(pos_sample_list, species=None, group=None, seed=0):
             negseq = ">neg_{}".format(i_seq+1) + "\n" + seq[:60] + "\n" + seq[60:120] + "\n" + seq[120:180] + "\n" + seq[180:240] + "\n" + seq[240:] + "\n"   
             negseq_list.append(negseq)
         #-------------------------
+        directory = './refined_data/{}/{}'.format(species, group)
+        if os.path.isdir(directory) == False:
+            os.makedirs(directory)
+        #-------------------------
         with open('./refined_data/{}/{}/{}_nonpromoter_{}.fa'.format(species_, group_, species_, group_), 'w') as f:
             for negseq in negseq_list:
                 f.writelines(negseq)
@@ -140,6 +148,11 @@ def seq2index(seq, species=None, group=None, sample_class=None):
     #-------------------------    
     index_seq_array = np.array(index_seq_list)
     if species != None and group != None and sample_class != None:
+        #-------------------------
+        directory = './indexed_data/{}/{}'.format(species, group)
+        if os.path.isdir(directory) == False:
+            os.makedirs(directory)
+        #-------------------------
         np.save("./indexed_data/{}/{}/{}_{}_{}.npy".format(species, group, sample_class, species, group), index_seq_array)
     #-------------------------
     return index_seq_array
