@@ -1,7 +1,7 @@
 # iPromoter-Seqvec: Identifying Promoters using Bidirectional Long Short-Term Memory and Sequence-embedded Features
 
 
-#### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, [S. Rahardja](http://www.susantorahardja.com/), [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗ and [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗
+#### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, [S. Rahardja](http://www.susantorahardja.com/)*, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
 ![alt text](https://github.com/mldlproject/2022-iPromoter-Seqvec/blob/main/iPromoter_Seqvec_abs.svg)
 
