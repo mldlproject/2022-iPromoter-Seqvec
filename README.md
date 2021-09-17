@@ -1,4 +1,4 @@
-# iPromoter-Seqvec: Identifying Promoters using Bidirectional Long Short-Term Memory and Sequence-embedded Features
+# iPromoter-Seqvec: Identifying Promoters using Bidirectional LSTM and Sequence-embedded Features
 
 
 #### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, [S. Rahardja](http://www.susantorahardja.com/)*, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
