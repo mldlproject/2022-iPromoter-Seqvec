@@ -3,7 +3,7 @@
 
 #### T-H Nguyen-Vo, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, [S. Rahardja](http://www.susantorahardja.com/)*, [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
-![alt text](https://github.com/mldlproject/2022-iPromoter-Seqvec/blob/main/iPromoter_Seqvec_abs.svg)
+![alt text](https://github.com/mldlproject/2022-iPromoter-Seqvec/blob/main/iPromoter_Seqvec_abs0.svg)
 
 ## Motivation
 Promoters, non-coding DNA sequences located at upstream regions of the transcription start site of genes/gene clusters, are essential regulatory elements for the 
