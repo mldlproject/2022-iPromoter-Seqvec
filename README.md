@@ -27,7 +27,7 @@ our method shows better performance in most evaluation metrics.
 Source code and data are available upon request. 
 
 ## Web-based Application
-[Click here](http://13.238.182.15:888/) (Being implemented)
+[Click here](http://52.63.98.138:8888/)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
