@@ -24,7 +24,7 @@ our method shows better performance in most evaluation metrics.
 
 
 ## Availability and implementation
-Source code and data are available upon request. 
+Source code and data are available on [GitHub](https://github.com/mldlproject/2022-iPromoter-Seqvec)
 
 ## Web-based Application
 [Click here](http://103.130.219.193:8001/)
