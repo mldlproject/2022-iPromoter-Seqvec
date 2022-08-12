@@ -27,7 +27,8 @@ our method shows better performance in most evaluation metrics.
 Source code and data are available on [GitHub](https://github.com/mldlproject/2022-iPromoter-Seqvec)
 
 ## Web-based Application
-[Click here](http://103.130.219.193:8001/)
+- Source 1: [Click here](http://14.231.244.182:5001/)
+- Source 2: [Click here](http://103.130.219.193:8001/)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
