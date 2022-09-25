@@ -26,7 +26,7 @@ Source code and data are available on [GitHub](https://github.com/mldlproject/20
 
 ## Web-based Application
 - Source 1: [Click here](http://14.231.244.182:5001/)
-- Source 2: [Click here](http://192.168.1.7:5001/)
+- Source 2: [Click here](http://124.197.54.240:5001/)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
