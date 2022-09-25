@@ -25,7 +25,7 @@ sequences, our models were able to learn highly specific characteristics discrim
 Source code and data are available on [GitHub](https://github.com/mldlproject/2022-iPromoter-Seqvec)
 
 ## Web-based Application
-- Source 1: [Click here](http://14.231.244.182:5001/)
+- Source 1: [Click here](http://14.231.233.168:5001/)
 - Source 2: [Click here](http://124.197.54.240:5001/)
 
 ## Contact 
