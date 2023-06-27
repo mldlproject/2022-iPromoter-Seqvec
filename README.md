@@ -28,5 +28,9 @@ Source code and data are available on [GitHub](https://github.com/mldlproject/20
 - Source 1: [Click here](http://124.197.54.240:5001/)
 - Source 2: [Click here](http://14.177.208.167:5001/)
 
+## Citation
+Thanh-Hoang Nguyen-Vo, Quang H. Trinh, Loc Nguyen, Phuong-Uyen Nguyen-Hoang, Susanto Rahardja*, Binh P. Nguyen* (2022). iPromoter-Seqvec: identifying promoters using bidirectional long short-term memory and sequence-embedded features. 
+*BMC Genomics 23 (Suppl 5), 681*. DOI:[10.1186/s12864-022-08829-6](https://doi.org/10.1186/s12864-022-08829-6).
+
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
